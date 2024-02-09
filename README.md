@@ -1,8 +1,11 @@
-# React + Vite
+# a simple clock application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple clock made using react
 
-Currently, two official plugins are available:
+## Functionality
+* tells time (lol ;))
+* 12 hour format
+* always display in two digits
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> THE GUI
+![image](https://github.com/ashan-medigodella/clock-react/assets/57296166/67ab4aad-d752-4dd8-b900-bfa717ef1669)
